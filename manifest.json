@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Notification Extension",
+    "name": "change colors Extension",
     "version": "1.0",
     "description": "This is the notification extension",
     "options_page": "options.html",
